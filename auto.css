@@ -1,6 +1,9 @@
 body{
     background-color: rgb(26, 26, 103);
     color: white;
+    line-height: 1.5;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 #kezdolap{
     text-align: center;
@@ -28,4 +31,27 @@ a{
 p{
     text-indent: 2em;
     font-size: large;
+}
+.forras{
+    text-align: right;
+    font-size: small;
+    font-style: italic;
+}
+#jobb{
+   float: right;
+   margin-left: 20px;
+   width: 40%;
+}
+figcaption{
+    text-align: center;
+    font-weight: bold;
+}
+.meret{
+    width: 10%;
+}
+img{
+    box-shadow: 0px 0px 10px;
+}
+.block{
+    display: block;
 }
