@@ -1,9 +1,13 @@
 body{
-    background-color: rgb(26, 26, 103);
+    background-image:url(Victorian\ Damask\ Flower\ Vintage\ Ornament\ Baroque\ Pattern\ Smaller\ Scale.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     color: white;
     line-height: 1.5;
     margin-left: 30px;
     margin-right: 30px;
+    font-size: 22.5px;
 }
 #kezdolap{
     text-align: center;
@@ -21,7 +25,6 @@ a{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    background-color: rgb(48, 48, 113);
     text-align: center;
     font-size: larger;
 }
@@ -30,7 +33,6 @@ a{
 }
 p{
     text-indent: 2em;
-    font-size: large;
 }
 .forras{
     text-align: right;
@@ -59,10 +61,28 @@ figure{
 }
 #felkover{
     font-weight: bold;
-    font-size: large;
 }
 figure{
     display: block;
     float: right;
     margin-left: 20px;
+}
+#folap{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+.bmw{
+    width: 500px;
+}
+#auto{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.betu{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-weight: bold;
+    font-size: 50px;
 }
